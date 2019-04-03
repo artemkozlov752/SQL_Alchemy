@@ -1,0 +1,7 @@
+mysqlclient
+pandas
+pymssql
+pytest
+pytest-cov
+pyyaml
+sqlalchemy
