@@ -1,0 +1,10 @@
+path_to_logger: "./configs/logging.yaml"
+credentials:
+  drivername: "mysql"
+  host: HOST
+  port: PORT
+  username: USERNAME
+  password: PASSWORD
+  database: "orders"
+test_data_length: 5000
+batch_size: 100
